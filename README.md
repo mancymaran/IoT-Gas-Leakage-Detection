@@ -17,7 +17,7 @@ An IoT-based gas leakage detection system using Arduino, MQ gas sensor, and GSM 
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](Documentation/circuit_diagram.png)
+![Circuit Diagram](Documentation/circuitdiagram.png)
 
 ## 🔮 Future Enhancements
 - Cloud integration
