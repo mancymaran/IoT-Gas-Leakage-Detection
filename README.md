@@ -15,10 +15,6 @@ An IoT-based gas leakage detection system using Arduino, MQ gas sensor, and GSM 
 - Buzzer alarm system
 - Low-cost safety solution
 
-## 🔌 Circuit Diagram
-
-![Circuit Diagram](Documentation/circuitdiagram.png)
-
 ## 🔮 Future Enhancements
 - Cloud integration
 - Mobile application alerts
